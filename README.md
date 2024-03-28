@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://cdn.discordapp.com/attachments/935509220198060032/1222909057862733824/alpaka.png?ex=6617edcf&is=660578cf&hm=9b428af8ac0f90ce3fc3e3545abab6b16238cb19b0e7b6ce8e4ed447662e2c41&" width="100"/>
+</div>
+
+
